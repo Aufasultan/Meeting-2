@@ -1,0 +1,16 @@
+input: 3 17 9
+output: X1 =-5.31956
+        X2 =-45.6804
+
+input: 2 7 10
+output: The Equation is No Solution 
+
+input: 3 7 9
+output: The Equation is No Solution 
+
+input: 12 3 5
+output: The Equation is No Solution 
+
+input: 2 13 8
+output: X1 =-2.75305
+        X2 =-23.247

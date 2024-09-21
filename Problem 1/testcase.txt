@@ -1,0 +1,59 @@
+input: Enter Your Name: Bambang 
+       The Grosssalary: 5000000
+       The Instalment: 200000
+       The Insurance: 300000
+output: Payslip for Employee
+        --------------------
+        Name: Bambang
+        Tax (20%): 1000000
+        Instalment: 200000
+        Insurance: 300000
+        Net Salary: 3500000
+
+input: Enter Your Name: adi
+       The Grosssalary: 10000000
+       The Instalment: 200000   
+       The Insurance: 300000
+output: Payslip for Employee
+        --------------------
+        Name: adi  
+        Tax (20%): 2000000
+        Instalment: 200000
+        Insurance: 300000
+        Net Salary: 7500000
+
+input: Enter Your Name: panji
+       The Grosssalary: 2000000
+       The Instalment: 300000
+       The Insurance: 10000
+output: Payslip for Employee
+        -------------------- 
+        Name: panji
+        Tax (20%): 400000
+        Instalment: 300000
+        Insurance: 10000
+        Net Salary: 1290000
+
+input:  Enter Your Name: javier
+         The Grosssalary: 100000000
+         The Instalment: 3000000
+         The Insurance: 2000000
+output: Payslip for Employee
+        --------------------
+        Name: javier
+        Tax (20%): 20000000
+        Instalment: 3000000
+        Insurance: 2000000
+        Net Salary: 75000000
+
+input: Enter Your Name: suci
+       The Grosssalary: 20000000
+       The Instalment: 400000
+       The Insurance: 300000
+output: Payslip for Employee
+        --------------------
+        Name: suci
+        Tax (20%): 4000000
+        Instalment: 400000
+        Insurance: 300000
+        Net Salary: 15300000
